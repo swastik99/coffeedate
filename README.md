@@ -1,8 +1,8 @@
-# Valentine's Day Interactive Page
+# coffee date Interactive Page
 
-A fun, interactive Valentine's Day page where the "Yes" button grows bigger every time they click "No" — with falling hearts, cute GIFs, music, and playful toast messages. Built with pure HTML, CSS, and JavaScript.
+A fun, interactive coffee date page where the "Yes" button grows bigger every time they click "No" — with falling hearts, cute GIFs, music, and playful toast messages. Built with pure HTML, CSS, and JavaScript.
 
-**Live demo:** [sahilgogna.github.io/v-day](https://sahilgogna.github.io/v-day)
+**Live demo:** [swastik99.github.io/🍵-date](https://swastik99.github.io/coffee-date)
 
 
 ---
@@ -18,7 +18,7 @@ You've got three options — pick whatever works for you.
 No setup needed. Just send this link:
 
 ```
-https://sahilgogna.github.io/v-day
+https://swastik99.github.io/coffee-date
 ```
 
 That's it. Done. You're welcome.
@@ -30,7 +30,7 @@ That's it. Done. You're welcome.
 Want your own version you can customize? Follow these steps:
 
 #### 1. Fork the Repo
-- Go to [github.com/SahilGogna/v-day](https://github.com/SahilGogna/v-day)
+- Go to [github.com/swastik99/coffee-date](https://github.com/swastik99/coffee-date)
 - Click the **Fork** button in the top-right corner
 - This creates a copy of the repo under your GitHub account
 
@@ -45,7 +45,7 @@ Want your own version you can customize? Follow these steps:
 - GitHub will build and deploy your site
 - Your site will be live at:
   ```
-  https://yourusername.github.io/v-day
+  https://yourusername.github.io/coffee-date
   ```
   (Replace `yourusername` with your actual GitHub username)
 
@@ -72,7 +72,7 @@ Want something completely unique? Use AI to build it.
 - Tell it exactly what you're imagining. Some ideas:
   - Falling hearts animation with a love letter reveal
   - Interactive story where they choose their adventure
-  - A countdown to Valentine's Day with daily messages
+  - A countdown to coffee date with daily messages
   - A quiz about your relationship
   - Whatever your heart desires — literally
 
@@ -91,7 +91,7 @@ Want something completely unique? Use AI to build it.
 ## Project Structure
 
 ```
-v-day/
+coffee-date/
 ├── index.html       # Main page — "Will you be my Valentine?"
 ├── yes.html         # Celebration page after they say Yes
 ├── script.js        # Main page logic (button growth, GIF swaps, toasts)
